@@ -475,12 +475,12 @@ const struct BaseStats gBaseStats[] =
 
 	[SPECIES_BEEDRILL] =
 	{
-		.baseHP 		= 65,
-		.baseAttack 	= 90,
-		.baseDefense 	= 40,
-		.baseSpAttack 	= 45,
+		.baseHP 		= 85,
+		.baseAttack 	= 100,
+		.baseDefense 	= 80,
+		.baseSpAttack 	= 35,
 		.baseSpDefense 	= 80,
-		.baseSpeed 		= 75,
+		.baseSpeed 		= 115,
 		.type1 = TYPE_BUG,
 		.type2 = TYPE_POISON,
 		.catchRate = 45,
@@ -27931,11 +27931,11 @@ const struct BaseStats gBaseStats[] =
 
 	[SPECIES_BEEDRILL_MEGA] =
 	{
-		.baseHP 		= 65,
-		.baseAttack 	= 150,
-		.baseDefense 	= 40,
-		.baseSpAttack 	= 15,
-		.baseSpDefense 	= 80,
+		.baseHP 		= 85,
+		.baseAttack 	= 165,
+		.baseDefense 	= 90,
+		.baseSpAttack 	= 25,
+		.baseSpDefense 	= 85,
 		.baseSpeed 		= 145,
 		.type1 = TYPE_BUG,
 		.type2 = TYPE_POISON,
